@@ -1,0 +1,17 @@
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.cache/
+.venv/
+.DS_Store
+.idea/
+*.egg-info/
+
+# ALFRED 数据体积大且可重新下载，不进仓库
+data/
+
+# 报告是本地产物
+reports/
+
+.env
+*.log
